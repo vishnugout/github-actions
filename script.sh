@@ -1,4 +1,4 @@
 #!/bin/bash
 
 
-echo "this is the first script"
+echo "this is the second script"
