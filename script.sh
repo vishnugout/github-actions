@@ -1,4 +1,4 @@
 #!/bin/bash
 
 
-echo "hello world version 2"
+echo "this is the first script"
